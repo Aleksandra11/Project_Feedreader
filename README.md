@@ -5,7 +5,8 @@ This is a web-based application that reads RSS feeds, which is tested with Jasmi
 All required specs within suites pass.
 
 ###How to run the code
-Live link [FeedReader] ()
+View live demonstration at [FeedReader](http://aleksandra11.github.io/Project_Feedreader/)
+
 OR download the repo and open index.html in the browser
 
 ###Additional tests designed for future features
@@ -18,9 +19,9 @@ These tests are allowed to fail because they are for future unimplemented yet fu
 * Test suite 'Ajax Calls with $.ajax:' designs spec for jQuery and ensures the callback method should be called on successful response. To run such Jasmine specs for AJAX calls we have to include jasmine-jquery plugin.
 
 ####Dependencies and resources used
-*[Jasmine documentation](http://jasmine.github.io/2.1/introduction.html)
-*[Udacity Dicussion forum] (https://discussions.udacity.com/t/new-feed-selection-question)
-*Jasmine Cookbook. M.Sethi, 2015
-*jQuery 2.1.1
-*Jasmine 2.1.2
-*Handelbars 2.0.0
+* [Jasmine documentation](http://jasmine.github.io/2.1/introduction.html)
+* [Udacity Dicussion forum] (https://discussions.udacity.com/t/new-feed-selection-question)
+* Jasmine Cookbook. M.Sethi, 2015
+* jQuery 2.1.1
+* Jasmine 2.1.2
+* Handelbars 2.0.0
