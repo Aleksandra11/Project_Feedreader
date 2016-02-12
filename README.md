@@ -5,7 +5,7 @@ This is a web-based application that reads RSS feeds, which is tested with Jasmi
 All required specs within suites pass.
 
 ###How to run the code
-View live demonstration at [FeedReader](http://aleksandra11.github.io/Project_Feedreader/)
+View live demonstration at [FeedReader](http://aleksandra11.github.io/Project_Feedreader)
 
 OR download the repo and open index.html in the browser
 
