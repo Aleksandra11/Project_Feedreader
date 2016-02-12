@@ -211,8 +211,8 @@ $(function() {
     describe('The number of feeds displayed', function() {
       var countFeeds = $('li').length;
 
-      //Test default number of feeds equals 4
-      it('defaults to four', function() {
+      //Test that number of feeds equals to allFeeds array length
+      it('should be matched to allFeeds length', function() {
         expect(countFeeds).toEqual(allFeeds.length);
         console.log(allFeeds.length);
       });
